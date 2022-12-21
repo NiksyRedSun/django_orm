@@ -1,0 +1,2 @@
+class PersonException(Exception):
+    pass
